@@ -23,3 +23,7 @@ int main                                {
 Ein sonniger, schöner Samstag und Ich sitze Zuhause und schreibe Code, wuhu.
 
 #Kapitel3: Es regnet.
+
+# Kapitel 3,141:
+
+float pi = abcd???
