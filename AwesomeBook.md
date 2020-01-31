@@ -41,3 +41,8 @@ Rezensionen:
 
 # Kapitel4: Es regnet.
 Fleisch > Gemuese.
+
+# Kapitel 3.3:
+Jägermeister ist sehr lecker.
+Musik = Leben.
+Always salt your pasta while boiling.
