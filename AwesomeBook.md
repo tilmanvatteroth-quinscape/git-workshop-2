@@ -4,7 +4,7 @@ Aweseome book!
 # Intro
 Dies ist das beste Buch der Welt.
 Von uns.
-Fabio, Dominik, Alexander, NAME4
+Fabio, Dominik, Alexander, Jjusczyk
 
 # Kapitel 1.1: 
 Es war an einem schönnen Sommertag!
