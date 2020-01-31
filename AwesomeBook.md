@@ -19,3 +19,12 @@ int main                                {
        
 # Kapitel 2:                 
 Ein sonniger, schöner Samstag und Ich sitze Zuhause und schreibe Code, wuhu.
+
+
+
+
+# Kapitel Jusczyk
+Justin hat ein Kapitel hinzugefügt. Justin ist stolz sich mit Git besser auszukennen.
+
+Kenn dich aus. Sei wie Justin. 
+:D
