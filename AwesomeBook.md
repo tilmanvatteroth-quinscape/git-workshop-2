@@ -6,7 +6,8 @@ Dies ist das beste Buch der Welt.
 Von uns.
 Fabio, Dominik, NAME3, NAME4
 
-# Kapitel 1: 
+# Kapitel 1.1: 
+Es war an einem schönnen Sommertag!
 
 ES WAR EINMAL..........ENDE.
 
