@@ -43,6 +43,11 @@ Rezensionen:
 
 # Kapitel4: Es regnet.
 
+
+# Kapitel Fabio:
+Konflikte machen spaß, fast soviel wie die Exfrau.
+
+#--
 # Letztes Kapitel
 Fleisch > Gemuese.
 Fleisch > Gemuese.
