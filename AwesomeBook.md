@@ -30,6 +30,8 @@ Ein sonniger, schöner Samstag und Ich sitze Zuhause und schreibe Code, wuhu.
 Justin hat ein Kapitel hinzugefügt. Justin ist stolz sich mit Git besser auszukennen.
 
 Kenn dich aus. Sei wie Justin. 
+
+Justin hört nicht auf sein Kapitel zu erweitern.
 :D
 # Kapitel 3:
 Wer das liest ist doof 
@@ -46,6 +48,7 @@ Rezensionen:
 Konflikte machen spaß, fast soviel wie die Exfrau.
 
 #--
+# Letztes Kapitel
 Fleisch > Gemuese.
 Fleisch > Gemuese.
 
