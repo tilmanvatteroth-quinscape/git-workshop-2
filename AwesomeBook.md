@@ -4,9 +4,10 @@ Aweseome book!
 # Intro
 Dies ist das beste Buch der Welt.
 Von uns.
-Fabio, Dominik, NAME3, Jjusczyk
+Fabio, Dominik, Alexander, Jjusczyk
 
-# Kapitel 1: 
+# Kapitel 1.1: 
+Es war an einem schönnen Sommertag!
 
 ES WAR EINMAL..........ENDE.
 
@@ -42,3 +43,17 @@ Rezensionen:
 "Würd ich mir direkt dreimal kaufen" - warscheinlich jeder
 
 # Kapitel4: Es regnet.
+
+
+# Kapitel Fabio:
+Konflikte machen spaß, fast soviel wie die Exfrau.
+
+#--
+# Letztes Kapitel
+Fleisch > Gemuese.
+Fleisch > Gemuese.
+
+# Kapitel 3.3:
+Jägermeister ist sehr lecker.
+Musik = Leben.
+Always salt your pasta while boiling.
