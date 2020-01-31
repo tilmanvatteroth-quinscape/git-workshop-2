@@ -33,6 +33,7 @@ Kenn dich aus. Sei wie Justin.
 
 Justin hört nicht auf sein Kapitel zu erweitern.
 :D
+Und es war ein mal ein Merge Conflict
 # Kapitel 3:
 Wer das liest ist doof 
 Warum ist die Banane krumm?
