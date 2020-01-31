@@ -6,7 +6,8 @@ Dies ist das beste Buch der Welt.
 Von uns.
 Fabio, Dominik, NAME3, NAME4
 
-# Kapitel 1: 
+# Kapitel 1.1: 
+Es war an einem schönnen Sommertag!
 
 ES WAR EINMAL..........ENDE.
 
@@ -23,6 +24,13 @@ int main                                {
 Ein sonniger, schöner Samstag und Ich sitze Zuhause und schreibe Code, wuhu.
 
 
+
+
+# Kapitel Jusczyk
+Justin hat ein Kapitel hinzugefügt. Justin ist stolz sich mit Git besser auszukennen.
+
+Kenn dich aus. Sei wie Justin. 
+:D
 # Kapitel 3:
 Wer das liest ist doof 
 Warum ist die Banane krumm?
@@ -34,3 +42,4 @@ Rezensionen:
 # Kapitel4: Es regnet.
 
 # Letztes Kapitel
+Fleisch > Gemuese.
