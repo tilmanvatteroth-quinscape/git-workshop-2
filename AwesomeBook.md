@@ -47,3 +47,9 @@ Konflikte machen spaß, fast soviel wie die Exfrau.
 
 #--
 Fleisch > Gemuese.
+Fleisch > Gemuese.
+
+# Kapitel 3.3:
+Jägermeister ist sehr lecker.
+Musik = Leben.
+Always salt your pasta while boiling.
