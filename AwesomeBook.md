@@ -44,16 +44,16 @@ Rezensionen:
 
 # Kapitel4: Es regnet.
 
-
 # Kapitel Fabio:
 Konflikte machen spaß, fast soviel wie die Exfrau.
 
 #--
 # Letztes Kapitel
 Fleisch > Gemuese.
-Fleisch > Gemuese.
 
 # Kapitel 3.3:
 Jägermeister ist sehr lecker.
 Musik = Leben.
 Always salt your pasta while boiling.
+
+# Kapitel1000: kefkhfahkfakhlksfahl
